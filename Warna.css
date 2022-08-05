@@ -1,0 +1,28 @@
+p{
+    font-style:initial;
+    opacity: 50%;
+    font-size: 10px;
+    margin: 1px;
+  }
+  p1{
+    font-size: 20px;
+    margin-top: 50px;
+  }
+  h1{
+    font-size: 50px;
+      color: red;
+  }
+  b{
+      color: red;
+  }
+  b1{
+    opacity: 50%;
+  }
+  header{
+    text-align: center;
+    font-size: 10px;
+  }
+  th{
+    font-size: 30px;
+  
+  }
